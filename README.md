@@ -28,7 +28,7 @@ This project is called __ The Task Master __
 # Buttons
 The add and update buttons have cool animation on hover.
 
-# Have a nice day.
+Have a nice day.
 .
 .
 ### Repeat
@@ -65,4 +65,4 @@ This project is called __ The Task Master __
 # Buttons
 The add and update buttons have cool animation on hover.
 
-# Have a nice day.
+Have a nice day.
