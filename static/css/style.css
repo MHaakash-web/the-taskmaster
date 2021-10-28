@@ -1,0 +1,69 @@
+body{
+    font-family: 'Aleo', serif;
+    font-size: 1rem;
+    background-color: white;
+}
+
+.content{
+    padding-top: 10%;
+    margin: 0px auto;
+    max-width: 600px;
+    text-align: center;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td, th{
+    padding: 10px;
+}
+
+input{
+    padding: 10px 20px;
+}
+
+input[type=text]{
+    width: 60%;
+}
+
+input[type=submit]{
+    width: 30%;
+}
+
+.btn{
+    border-radius: 50%;
+}
+
+a:focus{
+    outline: 0px solid white;
+}
+
+th{
+    background-color: black !important;
+    color: white;
+}
+
+.btn:focus, .btn:hover, .btn, .btn-add:active, .btn-add:focus{
+    box-shadow:none !important;
+}
+
+.btn-dark:hover{
+box-shadow: 5px 5px 0px black;
+color: black;
+background-color: white;
+transition: .3s linear;
+}
+
+.btn:hover i{
+    filter: brightness(0);
+    transition: .1s ease-in-out;
+ }
+
+ .credits{
+     position: absolute;
+     left: 50%;
+     bottom: 10%;
+     transform: translateX(-50%);
+ }
